@@ -1,0 +1,65 @@
+﻿  winpcap.cpp
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1241): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1244): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1247): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1250): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1253): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1259): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1262): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1265): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1268): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1271): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1274): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1277): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1280): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1283): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1291): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1294): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1297): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1303): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1306): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1309): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1312): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1315): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1318): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1321): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1324): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1327): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1330): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1333): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 請參閱 'strcat' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(1338): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : 請參閱 'localtime' 的宣告
+c:\users\tnk76133\documents\visual studio 2010\projects\winpcap\winpcap\winpcap.cpp(151): warning C4101: 'fmhdr' : 未參考的區域變數
+  winpcap.vcxproj -> C:\Users\tnk76133\Documents\Visual Studio 2010\Projects\winpcap\Debug\winpcap.exe
